@@ -1,4 +1,5 @@
-% addpath(genpath('C:\Users\TU Delf SID\Documents\MATLAB\ScienceCentre_HonoursProject\crewes'))
+addpath(genpath('CrewesFunctions'))
+
 close all
 clear all
 clc
