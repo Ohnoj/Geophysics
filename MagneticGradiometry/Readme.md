@@ -6,5 +6,8 @@ The program can then be used to apply destaggering (by pressing 'd'), zero mean 
 # Raw Data
 ![Raw data](https://github.com/Ohnoj/Geophysics/blob/main/MagneticGradiometry/RawData.png?raw=true)
 
+# Example of the interactive interface for processing
+![Interface](https://github.com/Ohnoj/Geophysics/blob/main/MagneticGradiometry/Interactive.png?raw=true)
+
 # Final result after processing
 ![Results](https://github.com/Ohnoj/Geophysics/blob/main/MagneticGradiometry/Result.png?raw=true)
