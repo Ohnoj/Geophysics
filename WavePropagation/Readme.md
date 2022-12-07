@@ -9,8 +9,8 @@ Different coloring is used for different waves:
    - Purple: Multiple reflection
 Note that the code does not provide all wavefields, and should only be used for educational purposes (e.g. no surface related multiples, or refractions from deeper depths)
 
-# After step t=10
-![T10](https://github.com/Ohnoj/Geophysics/blob/main/WavePropagation/Images/im0010.png?raw=true)
+# After step t=180
+![T180](https://github.com/Ohnoj/Geophysics/blob/main/WavePropagation/Images/im0010.png?raw=true)
 # After step t=500
 ![T500](https://github.com/Ohnoj/Geophysics/blob/main/WavePropagation/Images/im0500.png?raw=true)
 # Final timestep
