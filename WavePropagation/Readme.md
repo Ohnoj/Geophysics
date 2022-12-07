@@ -10,8 +10,8 @@ Different coloring is used for different waves:
 Note that the code does not provide all wavefields, and should only be used for educational purposes (e.g. no surface related multiples, or refractions from deeper depths)
 
 # After step t=10
-![T10](https://github.com/Ohnoj/Geophysics/blob/main/WavePropagation/Images/Im0010.png?raw=true)
+![T10](https://github.com/Ohnoj/Geophysics/blob/main/WavePropagation/Images/im0010.png?raw=true)
 # After step t=500
-![T500](https://github.com/Ohnoj/Geophysics/blob/main/WavePropagation/Images/Im0500.png?raw=true)
+![T500](https://github.com/Ohnoj/Geophysics/blob/main/WavePropagation/Images/im0500.png?raw=true)
 # Final timestep
-![T2000](https://github.com/Ohnoj/Geophysics/blob/main/WavePropagation/Images/Im2000.png?raw=true)
+![T2000](https://github.com/Ohnoj/Geophysics/blob/main/WavePropagation/Images/im2000.png?raw=true)
