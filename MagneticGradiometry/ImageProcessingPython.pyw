@@ -2,8 +2,7 @@
 """
 Engineering Geophysics: Task 13 Image Processing
 Method: Magnetic vertical gradient data
-Location: Mediant Watfa, NW Fayum Oasis, Egypt
-Target: Granary from early Ptolemaic period (~300 BC) 
+Target: Synthetic Data example made december 2022
 Johno van IJsseldijk - 04/12/17 
 MSc. Applied Geophysics
 """
